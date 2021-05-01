@@ -1,1 +1,1 @@
-# RicheFacesToPrimefacesMigrator
+# jsf-richfaces-to-primefaces-migrator
